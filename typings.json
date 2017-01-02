@@ -1,0 +1,7 @@
+{
+  "name": "points",
+  "dependencies": {},
+  "globalDependencies": {
+    "node": "registry:env/node#6.0.0+20161225010013"
+  }
+}
