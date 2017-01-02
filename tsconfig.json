@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "sourceMap": false,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "moduleResolution": "node",
+    "removeComments": false,
+    "noImplicitAny": false,
+    "suppressImplicitAnyIndexErrors": true,
+    "module": "commonjs",
+    "types": ["node"]
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

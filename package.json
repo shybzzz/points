@@ -1,0 +1,29 @@
+{
+  "name": "points",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shybzzz/points.git"
+  },
+  "author": "shybzzz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shybzzz/points/issues"
+  },
+  "homepage": "https://github.com/shybzzz/points#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "@types/node": "^6.0.55",
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.1.3",
+    "typescript": "^2.1.4"
+  }
+}
