@@ -2,3 +2,6 @@ node_modules/
 .idea/
 express/
 typings/
+web/lib/
+quickstart-master/
+quickstart-master.zip
